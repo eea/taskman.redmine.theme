@@ -55,5 +55,6 @@ $(function () {
     }
   }
   editWikiQuickSearch();
-
+  
+  $('#twofa_code').focus();
 });
