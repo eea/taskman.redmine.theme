@@ -56,5 +56,6 @@ $(function () {
   }
   editWikiQuickSearch();
   
+  $('#login-form #username').focus();
   $('#twofa_code').focus();
 });
